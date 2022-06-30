@@ -1,6 +1,6 @@
 {
-  "homepage": "https://vishalcangit.github.io/react-dropdown/",
   "name": "dropdown",
+  "homepage": "https://vishalcangit.github.io/react-dropdown",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

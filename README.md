@@ -1,3 +1,7 @@
+# This is a React Skill test of Dropdown
+Snapshots
+C:\Users\Vishal Suvarna\Desktop\SkillTest\dropDown\dropdown\public\snip1.PNG
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
