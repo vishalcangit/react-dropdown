@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
-  margin-top: 10%;
+  margin-top: 5%;
   justify-content: center;
 }
 
@@ -16,8 +16,8 @@ code {
 }
 
 .dropdown {
-  width: 40rem;
-  height: 20rem;
+  width: 50rem;
+  height: 25rem;
   background-color: aqua;
   display: flex;
   align-items: center;
@@ -32,8 +32,4 @@ select {
   background-color: whitesmoke;
   outline: none;
   padding: 2%;
-}
-option{
-  margin: 10px;
-  font-size: 2rem;
 }
