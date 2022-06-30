@@ -1,6 +1,6 @@
 # This is a React Skill test of Dropdown
 Snapshots
-C:\Users\Vishal Suvarna\Desktop\SkillTest\dropDown\dropdown\public\snip1.PNG
+![](C:\Users\Vishal Suvarna\Desktop\SkillTest\dropDown\dropdown\public\snip1.PNG)
 
 # Getting Started with Create React App
 
